@@ -7,7 +7,7 @@ This mod uses BepInEx 5! BepInEx is a mod loader, basically it is what puts the 
 - Install [BepInEx 5](https://github.com/BepInEx/BepInEx/releases) and extract the zip file.
 - Drag the extracted folder into your Potion Craft folder, you should be able to find the Potion Craft folder at `C:\Program Files (x86)\Steam\steamapps\common\Potion Craft`
 - Run Potion Craft once with BepInEx installed.
-- Download the mod from the [GitHub](https://github.com/catgocri/LifeSaltBuff/releases) page.
+- Download the mod from the [GitHub](https://github.com/catgocri/NoBSPrices/releases) page.
 - Drag `potioncraft-noBSPrices.dll` into `Potion Craft\BepInEx\Plugins`
 - You are good to go!
 ## Deinstallation
