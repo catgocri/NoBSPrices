@@ -1,6 +1,6 @@
 # PotionCraft No Bullshit Prices
 Allows you to modify the merchant's prices by a configurable modifier, allowing you to make things much easier, or harder for yourself. No more bullshit prices!
-## Config
+## Config (Found at BepInEx/Config)
 `priceModifier` The modifier that is applied to the merchants item prices. The base price is multiplied by the modifier. For example: If the base price is 20 and the modifier is 0.5 the price of the item would become 20 * 0.5. To add a challenge to your game increase the modifier above 1 ;).
 ## Installation
 This mod uses BepInEx 5! BepInEx is a mod loader, basically it is what puts the edited code into the game.
